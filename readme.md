@@ -1,7 +1,7 @@
-<h1 align="center"> Projeto One Pierce </h1>
+<h1 align="center"> Projeto Portifolio </h1>
 
 <p align="center">
-Projeto desenvolvido na Semana do 0 ao Programador no  canal DEV EM DOBRO <br/>
+Projeto desenvolvido por mim <br/>
 </p>
 
 <p align="center">
@@ -30,9 +30,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Projeto sobre o anime One Pierce .
+Projeto sobre os primeiros projetos .
 
-- [Acesse o projeto finalizado, online](https://github.com/)
+- [Acesse o projeto finalizado, online]  (https://github.com/ELTIIN007/Portifolio))
 
 
 
@@ -41,6 +41,3 @@ Projeto sobre o anime One Pierce .
 
 Esse projeto está sob a licença MIT.
 
----
-
-Feito com ♥ by Dev em Dobro :wave:
